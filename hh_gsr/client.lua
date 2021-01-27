@@ -1,3 +1,5 @@
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
+
 QBCore = nil
 local hasShot = false
 local ignoreShooting = false
@@ -80,3 +82,4 @@ function updateStatus()
 end
 
 updateStatus()
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
