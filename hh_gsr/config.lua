@@ -1,3 +1,4 @@
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
 Config = {}
 
 Config.gsrUpdate                = 2 * 1000          -- Change first number only, how often a new shot is logged dont set this to low keep it above 1 min - raise if you experience performance issues (default: 1 min).
@@ -20,3 +21,4 @@ Config.weaponChecklist = {
     0xD8DF3C3C, --Knuckle
     0xF9DCBF2D, --Hatchet
 }
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
