@@ -1,3 +1,5 @@
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
+
 QBCore = nil
 gsrData = {}
 
@@ -88,3 +90,4 @@ function gsrTimer()
 end
 
 gsrTimer()
+--------------------- HH FRAMEWORK FOR SUPPORT JOIN US https://discord.gg/fbn9mWyqxb ---------------------
