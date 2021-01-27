@@ -7,8 +7,9 @@ client_script {
     "config.lua"
 }
 
-description 'HH FRAMEWORK GSR'
-author 'HH FRAMEWORK'
+description 'ϟϟ ϟϟ ϟϟ ϟϟ'
+
+author 'ϟϟ Duce#1889'
 
 server_script {
     "server.lua",
